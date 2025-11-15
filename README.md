@@ -58,12 +58,12 @@ pip install -r requirements.txt
 `requirements.txt` includes:
 
 ```text
-streamlit 1.51.0
-pandas 2.3.3
-numpy 1.25.0
-python-dotenv 1.2.1
-google-genai 1.10.0
-requests 2.32.5
+streamlit>=1.51.0
+pandas>=2.3.3
+numpy>=2.3.4
+python-dotenv>=1.2.1
+google-genai>=1.50.1
+requests>=2.32.5
 ```
 
 ---
