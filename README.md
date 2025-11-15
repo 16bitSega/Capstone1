@@ -35,8 +35,8 @@ Other columns: required skills, preferred tools, salary (USD), region, industry
 ### 1 Clone the repository
 
 ```bash
-git clone https://github.com/16bitSega/Chat_with_data.git
-cd Chat_with_data
+git clone https://github.com/16bitSega/Capstone1.git
+cd Capstone1
 ```
 
 ### 2 Create a virtual environment (optional but recommended)
@@ -46,7 +46,7 @@ python -m venv venv
 # macOS / Linux
 source venv/bin/activate
 # Windows
-venv\Scriptsactivate
+venv\Scripts activate
 ```
 
 ### 3 Install dependencies
@@ -58,12 +58,12 @@ pip install -r requirements.txt
 `requirements.txt` includes:
 
 ```text
-streamlit
-pandas
-numpy
-python-dotenv
-google-genai
-requests
+streamlit 1.51.0
+pandas 2.3.3
+numpy 1.25.0
+python-dotenv 1.2.1
+google-genai 1.10.0
+requests 2.32.5
 ```
 
 ---
