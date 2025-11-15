@@ -1,6 +1,6 @@
-streamlit 1.51.0
-pandas 2.3.3
-numpy 1.25.0
-python-dotenv 1.2.1
-google-genai 1.10.0
-requests 2.32.5
+streamlit
+pandas
+numpy
+python-dotenv
+google-genai
+requests
